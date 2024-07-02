@@ -1,6 +1,6 @@
 # Getting Started 
 
-This project  with [Create React App](https://github.com/facebook/create-react-app).
+This project  with Create React App
 
 ## Available Scripts
 
