@@ -1,0 +1,37 @@
+้body,html {
+height: 100%;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 700px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+  border-radius: 8px;
+  text-align: center;
+}
+.chooseQuality img{
+  height: 20px;
+}
+
+.linkField{
+  justify-content: center;
+  /*background-color: orange;*/
+  display: flex;
+  height: 30px;
+}
+.content img{
+  height: 20px;
+}
+.content input{
+  width: 50%;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 4px;
+
+}
+
